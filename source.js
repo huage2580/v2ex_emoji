@@ -3,7 +3,7 @@
 // @version      0.2
 // @description  让V2EX 支持表情
 // @author       LawSiki、huage2580
-// @namespace    https://github.com/CrazyMelody/v2ex_emoticon
+// @namespace    https://github.com/huage2580/v2ex_emoji
 // @match        https://www.v2ex.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=v2ex.com
 
