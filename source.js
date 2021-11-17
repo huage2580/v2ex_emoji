@@ -6,6 +6,7 @@
 // @namespace    https://github.com/huage2580/v2ex_emoji
 // @match        https://www.v2ex.com/t/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=v2ex.com
+// @license MIT
 
 // ==/UserScript==
 
